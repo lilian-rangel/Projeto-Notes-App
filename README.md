@@ -14,6 +14,11 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%">
 
 <hr>
+<h2 align="center">Deploy 👨🏽‍💻</h2>
+<a href="hhttps://lilian-rangel-notes.netlify.app/" target="_blank">Link para testar</a>
+
+
+<hr>
 <h2 align="center">Demo do projeto </h2>
 <br>
 <img width="50%" align="center" src="">
