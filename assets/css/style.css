@@ -39,7 +39,7 @@ body {
   overflow-y: scroll;
 }
 .note .tools {
-  background-color: #9ec862;
+  background-color: #7292ab;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;

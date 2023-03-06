@@ -19,9 +19,9 @@
 
 
 <hr>
-<h2 align="center">Demo do projeto </h2>
+<h2 align="center">Print do projeto </h2>
 <br>
-<img width="50%" align="center" src="">
+<img width="50%" align="center" src="assets/img/print-projeto.jpg">
 
 
 <hr>
