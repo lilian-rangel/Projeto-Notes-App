@@ -15,7 +15,7 @@
 
 <hr>
 <h2 align="center">Deploy 👨🏽‍💻</h2>
-<a href="hhttps://lilian-rangel-notes.netlify.app/" target="_blank">Link para testar</a>
+<a href="https://lilian-rangel-notes.netlify.app/" target="_blank">Link para testar</a>
 
 
 <hr>
